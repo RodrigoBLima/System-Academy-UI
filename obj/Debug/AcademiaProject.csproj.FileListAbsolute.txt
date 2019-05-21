@@ -1,0 +1,13 @@
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\bin\Debug\AcademiaProject.exe.config
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\bin\Debug\AcademiaProject.exe
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\bin\Debug\AcademiaProject.pdb
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\obj\Debug\AcademiaProject.csprojAssemblyReference.cache
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\obj\Debug\AcademiaProject.Form1.resources
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\obj\Debug\AcademiaProject.Form2.resources
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\obj\Debug\AcademiaProject.Form3.resources
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\obj\Debug\AcademiaProject.Form4.resources
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\obj\Debug\AcademiaProject.Properties.Resources.resources
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\obj\Debug\AcademiaProject.csproj.GenerateResource.cache
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\obj\Debug\AcademiaProject.csproj.CoreCompileInputs.cache
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\obj\Debug\AcademiaProject.exe
+C:\Users\barbosa\source\repos\AcademiaProject\AcademiaProject\obj\Debug\AcademiaProject.pdb
